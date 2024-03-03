@@ -3,6 +3,7 @@ public class calculatorPrg {
     public static void main(String[] args) {
 Scanner sc=new Scanner(System.in);
 int ans=0;
+//calculator
             while(true){
                 System.out.println("enter an operator");
                 char op=sc.next().trim().charAt(0);
